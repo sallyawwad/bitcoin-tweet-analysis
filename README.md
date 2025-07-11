@@ -22,9 +22,9 @@ This project analyzes how Elon Musk's tweets affect the price of Bitcoin using d
    cd bitcoin-tweet-analysis
 2. **Install dependencies:**
    Make sure you have Python 3 installed. Then run:
-   <pre> ```bash pip install pandas numpy seaborn matplotlib wordcloud ``` </pre>
+   bash pip install pandas numpy seaborn matplotlib wordcloud
 3. **Open and run the notebook:**
-   <pre> ```bash jupyter notebook DV.ipynb ``` </pre>
+   bash jupyter notebook DV.ipynb
 
 
 
